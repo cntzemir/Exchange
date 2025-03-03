@@ -1,0 +1,3 @@
+canvastan telefon ortaya alıncak ona göre css ayarlancak
+js de döviz kurları eklenip gerçekçilik katıcak
+kullanışlı daha basit arayüz haline gelicek
